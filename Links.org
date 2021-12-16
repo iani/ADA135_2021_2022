@@ -1,5 +1,6 @@
 #+TITLE: Links
 
+* Rhetoric and text interpretations
 https://www.thelatinlibrary.com/ovid/ovid.fasti2.shtml
 
 succubuit famae victa puella metu.               810
@@ -14,12 +15,19 @@ https://www.youtube.com/watch?v=ZTauOCkvxm0&ab_channel=TheUniversityofEdinburgh 
 
 https://www.wikiwand.com/en/Artemisia_Gentileschi
 
+* Poetry
 https://www.poetryfoundation.org/poems/44129/the-sun-rising
 
 https://www.poetryfoundation.org/poems/90067/sonnet-12-when-i-do-count-the-clock-that-tells-the-time-578cfa272532b
+
+* Bach Partita 1 for solo violin
 
 https://www.youtube.com/watch?v=UaMoPi9BOoQ&ab_channel=BartjeBartmans
 
 https://www.youtube.com/watch?v=k6lmRD4FgKQ&ab_channel=NetherlandsBachSociety
 
 https://www.youtube.com/watch?v=XMMZsn4jbvA&ab_channel=MidoriSeiler-Topic
+
+* Mathematics of African Dance Music
+
+https://www.youtube.com/watch?v=2TgFp76Rnig&ab_channel=LibraryofCongress
